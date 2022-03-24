@@ -1,4 +1,4 @@
-		.navbar{
+	.navbar{
 		background-color: #302D2D;
 		height: 20px;	
 		width: 20px;
@@ -7,19 +7,19 @@
 		color: white;
 		}
 
-		i{
+	i{
 			height: 20px;
 			width: 20px;
 			font-size: 20px;
 		}
-		a{
+	a{
 			color: yellow;
 			padding: 6px 12px;
 			border: solid;
 			border-color: #1E1D1D;
 			text-decoration: none;
 			left: 0px;
-            display: none;
+        display: none;
 		}
 		a:hover{
 			color: yellow;
@@ -45,40 +45,35 @@
 			margin-left: 70px;
 			transition: 1s ease;
 		}
-		header{
+	header{
 			color: yellow;
 			padding: 3px 6px;
 			border-bottom: solid 10px black;
 			border-color: #1E1D1D;
 			background-color: #393535; 
 			text-align: center;
-            display: inline;
+        display: inline;
 
 		}
 		div:hover{
-	    background-color: #302D2D;
+	background-color: #302D2D;
 		height: 886px;	
 		width: 300px;
 		left: 0px;
 		border: solid 5px #1E1D1D;
         transition: 1s;
 		}
-		body{
-			background-color: black;
+	body{
+			background-color: white;
 			video: url(img.mp4);
 		}
-		div:hover content{
+	div:hover content{
 			display: block;
 		}
 		content{
-            display: none;
-		}
-		div:hover a{
+         display: none;
+	        }
+	div:hover a{
 			display: block;
 			width: 110px;
-		}
-		video{
-			border: rgb(0, 0, 0);
-			left: 400px;
-			
 		}
